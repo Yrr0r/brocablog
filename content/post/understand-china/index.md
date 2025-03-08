@@ -1,6 +1,6 @@
 ---
 title: 理解中国：自省（一）
-description: 短描述
+description: 
 date: 2023-08-25 00:00:00+0000
 image: cover.jpg
 ---
